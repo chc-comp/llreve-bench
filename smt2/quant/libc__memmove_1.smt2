@@ -2119,4 +2119,3 @@
                                (i2 Int))
                               (INV_MAIN_1 dst.1$1_0_old dst0$1_0_old src.1$1_0_old t.1$1_0_old i1_old (select HEAP$1_old i1_old) a.1$2_0 b.1$2_0 dec7$2_0 dst$2_0 i2 (select HEAP$2 i2))))))))))))
 (check-sat)
-(get-model)

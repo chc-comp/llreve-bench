@@ -254,4 +254,3 @@
                                                    false))))))
                                  (INV_MAIN_0 dst.addr.0$1_0_old src.addr.0$1_0_old HEAP$1_old from.addr.0$2_0 to.addr.0$2_0 HEAP$2))))))))))))
 (check-sat)
-(get-model)

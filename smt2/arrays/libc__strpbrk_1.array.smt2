@@ -710,4 +710,3 @@
                                                                                     false))))))))))))))))
                                     (INV_MAIN_1 accept$1_0_old i.0$1_0_old s.addr.0$1_0_old HEAP$1_old conv$2_0 incdec.ptr$2_0 s2$2_0 scanp.0$2_0 HEAP$2)))))))))))))
 (check-sat)
-(get-model)

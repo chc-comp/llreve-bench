@@ -2149,4 +2149,3 @@
                                                                                              (not (not cmp11$1_0)))))))))))))))
                                                       (INV_MAIN_42 incdec.ptr$1_0_old incdec.ptr9$1_0_old n.addr.0$1_0_old HEAP$1_old a.0$2_0 add.ptr$2_0 b.0$2_0 HEAP$2)))))))))))))))))))
 (check-sat)
-(get-model)

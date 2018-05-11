@@ -1009,4 +1009,3 @@
                                                                      (not (not cmp3$1_0))))))))))))
                                        (INV_MAIN_0 c$1_0_old incdec.ptr$1_0_old n.addr.0$1_0_old HEAP$1_old c$2_0 dec$2_0 incdec.ptr$2_0 HEAP$2))))))))))))))
 (check-sat)
-(get-model)

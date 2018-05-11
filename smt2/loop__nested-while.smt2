@@ -887,4 +887,3 @@
                                           (not cmp3$1_0))))))
                            (INV_MAIN_42 add$1_0_old add7$1_0_old x.addr.1$1_0_old add$2_0 g.addr.1$2_0 x.addr.1$2_0))))))))))
 (check-sat)
-(get-model)

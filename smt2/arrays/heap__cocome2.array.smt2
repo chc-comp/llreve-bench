@@ -3634,4 +3634,3 @@
                                                                            false)))))))))))
                                           (INV_MAIN_42 i.0$1_0_old itemCount$1_0_old items$1_0_old j.0$1_0_old onlineItemCount$1_0_old onlineItems$1_0_old paidOnline$1_0_old sum.0$1_0_old HEAP$1_old i.0$2_0 itemCount$2_0 items$2_0 onlineItemCount$2_0 onlineItems$2_0 paidOnline$2_0 sum.0$2_0 HEAP$2)))))))))))))))
 (check-sat)
-(get-model)

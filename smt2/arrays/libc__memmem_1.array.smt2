@@ -709,4 +709,3 @@
                                                                         false))))))))))
                                           (INV_MAIN_42 add.ptr1$1_0_old cur.0$1_0_old needle$1_0_old nl$1_0_old HEAP$1_old haystack.addr.0$2_0 i.0$2_0 needle$2_0 nl$2_0 HEAP$2)))))))))))))))
 (check-sat)
-(get-model)

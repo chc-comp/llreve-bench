@@ -359,4 +359,3 @@
                                      (x.addr.1$2_0 x.addr.0$2_0))
                                     (INV_MAIN_23 add$1_0 g.addr.1.sink$1_0 x.addr.1$1_0 add$2_0 g.addr.1$2_0 x.addr.1$2_0)))))))))))))
 (check-sat)
-(get-model)

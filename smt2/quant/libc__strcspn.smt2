@@ -1781,4 +1781,3 @@
                                                              (i2 Int))
                                                             (INV_MAIN_1 _$1_1_old incdec.ptr$1_0_old incdec.ptr1$1_0_old reject$1_0_old s$1_0_old i1_old (select HEAP$1_old i1_old) i.0$2_0 l.0$2_0 reject$2_0 s.addr.0$2_0 i2 (select HEAP$2 i2))))))))))))))))))))))
 (check-sat)
-(get-model)

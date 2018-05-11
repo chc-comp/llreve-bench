@@ -1329,4 +1329,3 @@
                                                                         (not cmp7$1_0))))))))))
                                              (INV_MAIN_42 _$1_0_old _$1_1_old incdec.ptr$1_0_old incdec.ptr1$1_0_old HEAP$1_old incdec.ptr$2_0 incdec.ptr3$2_0 HEAP$2))))))))))))))))
 (check-sat)
-(get-model)

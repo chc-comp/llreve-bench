@@ -301,4 +301,3 @@
                                     ((result$2 r.0$2_0))
                                     (INV_REC_g__2 n$2_0_old s$2_0_old result$2)))))))))))))
 (check-sat)
-(get-model)

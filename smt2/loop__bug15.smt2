@@ -249,4 +249,3 @@
                                              (not cmp$1_0))))))
                               (INV_MAIN_42 x.0$1_0_old x.0$2_0)))))))))))
 (check-sat)
-(get-model)

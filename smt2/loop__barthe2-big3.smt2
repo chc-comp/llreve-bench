@@ -658,4 +658,3 @@
                                           false)))))
                            (INV_MAIN_4 n.addr.0$1_0_old x.3$1_0_old n.addr.0$2_0 x.3$2_0))))))))))
 (check-sat)
-(get-model)

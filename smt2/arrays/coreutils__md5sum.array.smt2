@@ -5376,4 +5376,3 @@
                                                                                                                false)))))))))))))))))
                                                             (INV_MAIN_3 hex_digest$1_0_old i.2.sink$1_0_old s$1_0_old HEAP$1_old hex_digest$2_0 i.2.sink$2_0 s$2_0 HEAP$2)))))))))))))))))))))
 (check-sat)
-(get-model)

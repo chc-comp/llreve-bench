@@ -2063,4 +2063,3 @@
                                                 false)))))))
                            (INV_MAIN_1 dst.1$1_0_old dst0$1_0_old src.1$1_0_old t.1$1_0_old HEAP$1_old a.1$2_0 b.1$2_0 dec7$2_0 dst$2_0 HEAP$2))))))))))
 (check-sat)
-(get-model)

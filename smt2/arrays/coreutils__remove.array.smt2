@@ -2956,4 +2956,3 @@
                                                           (HEAP$2_res HEAP$2))
                                                          (OUT_INV result$1 result$2 HEAP$1 HEAP$2))))))))))))))))))))
 (check-sat)
-(get-model)

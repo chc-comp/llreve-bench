@@ -724,4 +724,3 @@
                                                                                              false)))))))))))
                                                             (INV_MAIN_1 a.0$1_0_old accept$1_0_old s.addr.0$1_0_old HEAP$1_old accept$2_0 i.0$2_0 s.addr.0$2_0 HEAP$2)))))))))))))))))))))
 (check-sat)
-(get-model)

@@ -959,4 +959,3 @@
                                                                                   (i2 Int))
                                                                                  (INV_MAIN_2 a$1_0 i.0$1_0 j.0$1_0 n$1_0 i1 (select HEAP$1 i1) a$2_0 i.0$2_0 j.0$2_0 n$2_0 i2 (select HEAP$2 i2)))))))))))))))))))))))))))))
 (check-sat)
-(get-model)

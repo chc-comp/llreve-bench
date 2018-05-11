@@ -970,4 +970,3 @@
                                                                                           false))))))))))))
                                                       (INV_MAIN_42 c1.0$1_0_old c2.0$1_0_old n.addr.0$1_0_old s1.addr.0$1_0_old s2.addr.0$1_0_old HEAP$1_old a.0$2_0 add.ptr$2_0 b.0$2_0 HEAP$2)))))))))))))))))))
 (check-sat)
-(get-model)

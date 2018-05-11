@@ -2516,4 +2516,3 @@
                                                                             (i2 Int))
                                                                            (INV_MAIN_1 count.0$1_0_old reject$1_0_old s.addr.0$1_0_old i1_old (select HEAP$1_old i1_old) count.0$2_0 reject$2_0 s.addr.0$2_0 i2 (select HEAP$2 i2)))))))))))))))))))))))))))
 (check-sat)
-(get-model)

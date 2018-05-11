@@ -972,4 +972,3 @@
                                                                (not (not cmp$1_0)))))))))
                                           (INV_MAIN_42 c$1_0_old dec$1_0_old pc.0$1_0_old HEAP$1_old c$2_0 incdec.ptr$2_0 n.addr.0$2_0 HEAP$2)))))))))))))))
 (check-sat)
-(get-model)

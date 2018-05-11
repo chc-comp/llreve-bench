@@ -2998,4 +2998,3 @@
                                                                               false))))))))
                                                       (INV_MAIN_42 n.addr.0$1_0_old result.0$1_0_old b.0$2_0 n.addr.0$2_0 result.0$2_0 retval1.0$2_0)))))))))))))))))))
 (check-sat)
-(get-model)

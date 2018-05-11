@@ -167,4 +167,3 @@
                    (HEAP$2_res HEAP$2))
                   (INV_REC_g__2 b$2_0_old HEAP$2_old result$2 HEAP$2_res)))))))
 (check-sat)
-(get-model)

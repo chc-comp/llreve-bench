@@ -188,4 +188,3 @@
 
 
 (check-sat)
-(get-model)

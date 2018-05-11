@@ -209,4 +209,3 @@
                       (i2_res Int))
                      (INV_REC_g__2 b$2_0_old i2_old (select HEAP$2_old i2_old) result$2 i2_res (select HEAP$2_res i2_res)))))))))
 (check-sat)
-(get-model)

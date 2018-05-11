@@ -6774,4 +6774,3 @@
                                                                                                  (i2 Int))
                                                                                                 (INV_MAIN_42 conv$1_0_old s.addr.0$1_0_old i1_old (select HEAP$1_old i1_old) conv$2_0 t.addr.0$2_0 i2 (select HEAP$2 i2))))))))))))))))))))))))))))))))))
 (check-sat)
-(get-model)

@@ -1680,4 +1680,3 @@
                                                  (t.0$2_0 reject$2_0))
                                                 (INV_MAIN_0 conv.i$1_0 count.0$1_0 incdec.ptr$1_0 reject$1_0 t.addr.i.0$1_0 HEAP$1 _$2_1 count.0$2_0 incdec.ptr$2_0 reject$2_0 t.0$2_0 HEAP$2)))))))))))))))))
 (check-sat)
-(get-model)

@@ -750,4 +750,3 @@
                                               (i2 Int))
                                              (INV_MAIN_42 add.ptr1$1_0_old cur.0$1_0_old needle$1_0_old nl$1_0_old i1_old (select HEAP$1_old i1_old) haystack.addr.0$2_0 i.0$2_0 needle$2_0 nl$2_0 i2 (select HEAP$2 i2)))))))))))))))))
 (check-sat)
-(get-model)

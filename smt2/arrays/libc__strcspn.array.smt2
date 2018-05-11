@@ -1680,4 +1680,3 @@
                                                                                     (not cmp6$1_0))))))))))
                                                          (INV_MAIN_1 _$1_1_old incdec.ptr$1_0_old incdec.ptr1$1_0_old reject$1_0_old s$1_0_old HEAP$1_old i.0$2_0 l.0$2_0 reject$2_0 s.addr.0$2_0 HEAP$2))))))))))))))))))))
 (check-sat)
-(get-model)

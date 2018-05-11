@@ -830,4 +830,3 @@
                                  (INV_42__2 i.0$2_0 n$2_0 result$2)
                                  (INV_42__2 i.0$2_0_old n$2_0_old result$2))))))))))))
 (check-sat)
-(get-model)

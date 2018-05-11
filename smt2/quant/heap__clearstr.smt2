@@ -280,4 +280,3 @@
                                   (i2 Int))
                                  (INV_MAIN_42 a$1_0_old i.0$1_0_old i1_old (select HEAP$1_old i1_old) a$2_0 a.addr.0$2_0 i2 (select HEAP$2 i2)))))))))))))
 (check-sat)
-(get-model)

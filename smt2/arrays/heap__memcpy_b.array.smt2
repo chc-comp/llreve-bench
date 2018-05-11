@@ -291,4 +291,3 @@
                                                             false)))))))))
                                  (INV_MAIN_42 dest$1_0_old i.0$1_0_old size$1_0_old src$1_0_old HEAP$1_old dest.addr.0$2_0 size.addr.0$2_0 src.addr.0$2_0 HEAP$2))))))))))))
 (check-sat)
-(get-model)

@@ -5665,4 +5665,3 @@
                                                                 (i2 Int))
                                                                (INV_MAIN_3 hex_digest$1_0_old i.2.sink$1_0_old s$1_0_old i1_old (select HEAP$1_old i1_old) hex_digest$2_0 i.2.sink$2_0 s$2_0 i2 (select HEAP$2 i2)))))))))))))))))))))))
 (check-sat)
-(get-model)

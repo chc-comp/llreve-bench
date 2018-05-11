@@ -250,4 +250,3 @@
                                                             false))))))))))
                               (INV_MAIN_42 a$1_0_old i.0$1_0_old HEAP$1_old a$2_0 a.addr.0$2_0 HEAP$2)))))))))))
 (check-sat)
-(get-model)

@@ -192,4 +192,3 @@
                                              false))))))
                            (INV_MAIN_42 i.0$1_0_old j.0$1_0_old n$1_0_old i.0$2_0 j.0$2_0))))))))))
 (check-sat)
-(get-model)

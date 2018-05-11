@@ -281,4 +281,3 @@
                                              false)))))
                               (INV_MAIN_42 c.addr.0$1_0_old x.0$1_0_old c.addr.0$2_0 t$2_0 x.0$2_0)))))))))))
 (check-sat)
-(get-model)

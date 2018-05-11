@@ -2407,4 +2407,3 @@
                                                     (i2 Int))
                                                    (INV_MAIN_42 incdec.ptr$1_0_old incdec.ptr9$1_0_old n.addr.0$1_0_old i1_old (select HEAP$1_old i1_old) _$2_0 _$2_1 incdec.ptr$2_0 incdec.ptr1$2_0 n.addr.0$2_0 i2 (select HEAP$2 i2)))))))))))))))))))
 (check-sat)
-(get-model)

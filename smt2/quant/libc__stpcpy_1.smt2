@@ -284,4 +284,3 @@
                                      (i2 Int))
                                     (INV_MAIN_0 dst.addr.0$1_0_old src.addr.0$1_0_old i1_old (select HEAP$1_old i1_old) from.addr.0$2_0 to.addr.0$2_0 i2 (select HEAP$2 i2))))))))))))))
 (check-sat)
-(get-model)

@@ -1794,4 +1794,3 @@
                                                     (i2 Int))
                                                    (INV_MAIN_0 conv.i$1_0 count.0$1_0 incdec.ptr$1_0 reject$1_0 t.addr.i.0$1_0 i1 (select HEAP$1 i1) _$2_1 count.0$2_0 incdec.ptr$2_0 reject$2_0 t.0$2_0 i2 (select HEAP$2 i2)))))))))))))))))))
 (check-sat)
-(get-model)

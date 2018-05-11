@@ -514,4 +514,3 @@
                                                                            false)))))))))))
                                           (INV_MAIN_42 a$1_0_old i.0$1_0_old max.0$1_0_old n$1_0_old HEAP$1_old a$2_0 i.0$2_0 maxv.0$2_0 n$2_0 HEAP$2)))))))))))))))
 (check-sat)
-(get-model)

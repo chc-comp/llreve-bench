@@ -321,4 +321,3 @@
                                      (i2 Int))
                                     (INV_MAIN_42 dest$1_0_old i.0$1_0_old size$1_0_old src$1_0_old i1_old (select HEAP$1_old i1_old) dest.addr.0$2_0 size.addr.0$2_0 src.addr.0$2_0 i2 (select HEAP$2 i2))))))))))))))
 (check-sat)
-(get-model)

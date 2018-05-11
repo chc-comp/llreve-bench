@@ -720,4 +720,3 @@
                                         (i2 Int))
                                        (INV_MAIN_1 a.0$1_0_old accept$1_0_old s.addr.0$1_0_old i1_old (select HEAP$1_old i1_old) conv$2_0 incdec.ptr$2_0 s2$2_0 scanp.0$2_0 i2 (select HEAP$2 i2)))))))))))))))
 (check-sat)
-(get-model)

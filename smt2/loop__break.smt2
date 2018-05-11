@@ -391,4 +391,3 @@
                                                       (not cmp$1_0)))))))
                                     (INV_MAIN_42 i.0$1_0_old x$1_0_old i.0$2_0 x$2_0)))))))))))))
 (check-sat)
-(get-model)

@@ -453,4 +453,3 @@
                                   (i2 Int))
                                  (INV_MAIN_0 c$1_0_old d.0$1_0_old dst$1_0_old n.addr.0$1_0_old i1_old (select HEAP$1_old i1_old) a.0$2_0 dec$2_0 dst$2_0 s$2_0 i2 (select HEAP$2 i2)))))))))))))
 (check-sat)
-(get-model)
